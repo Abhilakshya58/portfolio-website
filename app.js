@@ -73,9 +73,9 @@ var images = [
             })
             sec.classList.add('show-animate');
         }
-        else{
-            sec.classList.remove('show-animate');
-        }
+        // else{
+        //     sec.classList.remove('show-animate');
+        // }
         
     });
     menuIcon.classList.remove('bx-x');
