@@ -223,6 +223,7 @@ section {
   background: var(--second-bg-color);
   padding-bottom: 6rem;
   width: 100%;
+  height: auto;
 }
 
 .heading {
@@ -803,9 +804,9 @@ section:nth-child(even) .animate {
     } */
 
   .slider {
-    width: 3800px;
-    height: 300px;
-    margin-right: 10px;
+    width: 370px;
+    height: 325px;
+    /* margin-left: 20px; */
   }
 
   .contact form .input-box .input-field {
